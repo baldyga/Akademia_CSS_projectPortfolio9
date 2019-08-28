@@ -5,9 +5,9 @@ Simple portfolio created with: Flexbox and responsive web design.
 ```
 
 ## Table of contents
-* [General info]
-* [Technologies]
-* [Sources]
+* General info
+* Technologies
+* Sources
 
 ### Gereral info 
 Project portfolio is made on the basis of project design.
