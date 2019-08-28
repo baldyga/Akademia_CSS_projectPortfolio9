@@ -10,7 +10,7 @@ Simple portfolio created with: Flexbox and responsive web design.
 * Sources
 
 ### Gereral info 
-Project portfolio is made on the basis of project design.
+Project portfolio is made on the basic of project design.
 
 ### Technologies
 Project is created with:
