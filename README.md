@@ -1,10 +1,10 @@
 # Portfolio design
 
 ```
-## Simple portfolio created with: Flexbox and responsive web design.
+Simple portfolio created with: Flexbox and responsive web design.
 ```
 
-### Table of contents
+## Table of contents
 * [General info]
 * [Technologies]
 * [Sources]
